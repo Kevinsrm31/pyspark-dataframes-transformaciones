@@ -5,7 +5,7 @@ Caso práctico en PySpark (Apache Spark) sobre Databricks: transformaciones, agr
 ## Contenido
 
 - [`Proyecto_Final_PySpark_Databricks.ipynb`](./Proyecto_Final_PySpark_Databricks.ipynb) — notebook con el desarrollo completo, listo para correr en Databricks.
-- [`article/`](./article) — artículo técnico con el recorrido completo (código y explicación de cada sección).
+- **Artículo:** [PySpark en Apache Spark: transformaciones, agregaciones y consultas SQL sobre DataFrames](https://medium.com/@kevinsrm19/pyspark-en-apache-spark-transformaciones-agregaciones-y-consultas-sql-sobre-dataframes-0ea1ea038a9e) (Medium) — recorrido completo con código y resultado real de cada operación.
 
 ## Qué cubre
 
