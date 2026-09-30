@@ -21,4 +21,4 @@ Apache Spark · PySpark · Spark SQL · Databricks
 
 ## Autor
 
-Kevin Reyes Morocho — [LinkedIn](https://www.linkedin.com/in/kevin-steven-reyes-morocho)
+Kevin Reyes Morocho — [LinkedIn](https://www.linkedin.com/in/kevin-steven-reyes-morocho-/)
